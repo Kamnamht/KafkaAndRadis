@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: CouponProcessor
+Implementation-Version: 1.0.0
+Built-By: B0200130
+Implementation-Vendor-Id: com.airtel.money.couponprocessing
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/CouponProces
+ sor/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.airtel.merchant.coupon.Initializer
+
